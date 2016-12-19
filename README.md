@@ -13,3 +13,7 @@ Since the application used gesture based interface, an autistic child feels more
 
 Architecture Flow Diagram :
 ![alt text](https://github.com/SJSU272Lab/Fall16-Team29/blob/master/FInal%20Project/Picture1.png "Architecture Flow Diagram")
+ 
+ User Stories :
+ 1. As a user, I can complete specific tasks assigned to me to go to the next level.
+ 2. 
