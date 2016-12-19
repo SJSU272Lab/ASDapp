@@ -28,6 +28,6 @@ Aarya is linked to a database where the time taken for each activity is stored a
 Various other situations that involve social interaction can be included in the form of modules with multiple levels. Aarya could be made customizable in order to meet the needs of individual autistic children; a child might be left handed whereas the game is coded for a right-handed individual. 
  
 # Team Members :
-
+<img src="<img src="http://....jpg" width="200" height="200" />" width="200" height="200" />
 
 
