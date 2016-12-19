@@ -16,4 +16,4 @@ Architecture Flow Diagram :
  
  User Stories :
  1. As a user, I can complete specific tasks assigned to me to go to the next level.
- 2. 
+ 2. As a user, I can create an account and track the progress of my task completion by logging into the application.
