@@ -1,4 +1,4 @@
-# Fall16-Team29
+# AARYA: A KINESTHETIC COMPANION FOR CHILDREN WITH AUTISM SPECTRUM DISORDER
 
 
 # Abstract  :
@@ -18,5 +18,10 @@ Since the application used gesture based interface, an autistic child feels more
 # User Stories :
  1. As an autistic child, I can complete specific tasks assigned to me to go to the next level.
  2. As a parent, I can create an account and track the progress of my task completion by logging into the application.
+
+# Project Deliverables :
+[Project Report](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/Team_29.pdf)
+[Presentation Slides](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/autism.pptx)
+
  
  
