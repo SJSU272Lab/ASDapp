@@ -23,5 +23,7 @@ Since the application used gesture based interface, an autistic child feels more
 1.[Project Report](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/Team_29.pdf)
 2.[Presentation Slides](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/autism.pptx)
 
- 
+# Future Scope :
+Aarya is linked to a database where the time taken for each activity is stored and the progress of the child can be accessed by teachers or parents. This database if given remote access can be reviewed by experts in the field so the experts can come up with better solutions and many more activities can be converted into interactive games. The application can also have an extension wherein the child can follow different and alternative action paths to encourage creativity.
+Various other situations that involve social interaction can be included in the form of modules with multiple levels. Aarya could be made customizable in order to meet the needs of individual autistic children; a child might be left handed whereas the game is coded for a right-handed individual. 
  
