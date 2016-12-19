@@ -1,4 +1,4 @@
-# AARYA: A KINESTHETIC COMPANION FOR CHILDREN WITH AUTISM SPECTRUM DISORDER
+# AARYA: A Kinesthetic Companion For Children With Autism Spectrum Disorder
 
 
 # Abstract  :
