@@ -20,8 +20,8 @@ Since the application used gesture based interface, an autistic child feels more
  2. As a parent, I can create an account and track the progress of my task completion by logging into the application.
 
 # Project Deliverables :
-[Project Report](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/Team_29.pdf)
-[Presentation Slides](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/autism.pptx)
+1.[Project Report](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/Team_29.pdf)
+2.[Presentation Slides](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/autism.pptx)
 
  
  
