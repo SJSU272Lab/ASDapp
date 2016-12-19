@@ -15,5 +15,7 @@ Architecture Flow Diagram :
 ![alt text](https://github.com/SJSU272Lab/Fall16-Team29/blob/master/FInal%20Project/Picture1.png "Architecture Flow Diagram")
  
  User Stories :
- 1. As a user, I can complete specific tasks assigned to me to go to the next level.
- 2. As a user, I can create an account and track the progress of my task completion by logging into the application.
+ 1. As an autistic child, I can complete specific tasks assigned to me to go to the next level.
+ 2. As a parent, I can create an account and track the progress of my task completion by logging into the application.
+ 
+ 
